@@ -1,5 +1,5 @@
 # JSTool
-
+[![tool up](https://img.shields.io/badge/tool-up-brightgreen.svg)](https://github.com/flitrue/JSTool)
 ## Introduction
 
 > 个人开发中总结和积累的js工具(JS tools that are summarized and accumulated in personal development)
